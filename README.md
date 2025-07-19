@@ -126,7 +126,7 @@ Farmers often face challenges due to a lack of scientific guidance on fertilizer
 
 ## 👥 Team
 
-- **Team Name**: AgriCure  
+- **Team Name**: Tech Wizards  
 - **Team Leader**: Mohit Mehta  
 - **Institute**: Indian Institute of Information Technology, Sonepat  
 - **Email**: [g.mehta1971@gmail.com](mailto:g.mehta1971@gmail.com)
